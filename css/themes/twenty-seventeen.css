@@ -1,0 +1,10 @@
+.entry-content a img.lp-logo-img,
+.entry-content a.lp-logo-link:hover {
+    -webkit-box-shadow: inherit;
+    box-shadow: inherit;
+}
+
+#livepress .lp-bar .lp-logo-img, .lp-credits .lp-logo-img {
+
+    margin-bottom: -5px;
+}

@@ -1,0 +1,16 @@
+/* Overwrite any standard wordpress styles here */
+
+#wpbody-content {
+  min-width: 810px;
+}
+
+@media screen and (max-width: 782px) {
+	#screen-meta, #screen-meta-links  {
+		display: block !important;
+	}
+}
+
+
+.AnyTime-win{
+    z-index: 99;
+}
